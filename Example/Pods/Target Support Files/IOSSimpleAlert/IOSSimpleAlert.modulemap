@@ -1,0 +1,6 @@
+framework module IOSSimpleAlert {
+  umbrella header "IOSSimpleAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

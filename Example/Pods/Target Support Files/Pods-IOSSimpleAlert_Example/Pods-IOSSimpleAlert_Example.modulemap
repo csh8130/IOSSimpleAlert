@@ -1,0 +1,6 @@
+framework module Pods_IOSSimpleAlert_Example {
+  umbrella header "Pods-IOSSimpleAlert_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

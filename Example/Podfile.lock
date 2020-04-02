@@ -1,0 +1,16 @@
+PODS:
+  - IOSSimpleAlert (0.1.0)
+
+DEPENDENCIES:
+  - IOSSimpleAlert (from `../`)
+
+EXTERNAL SOURCES:
+  IOSSimpleAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IOSSimpleAlert: 2bf796d23c08464f02babfc7949d8661a6a5ba27
+
+PODFILE CHECKSUM: 348765435b54c9860dad5c74b35b9b51939a5dfb
+
+COCOAPODS: 1.9.0.beta.3
